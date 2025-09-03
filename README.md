@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Turi Rezende  
+# 👋 Hi, I'm Turi  
 
 🎓 Master’s student in Computer Science at **UFMG (DCC)**.  
 🧠 Research in **Deep Learning**, with focus on **Computer Vision** and **Healthcare applications**.  
