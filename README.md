@@ -2,7 +2,7 @@
 
 🎓 Master’s student in Computer Science at **UFMG (DCC)**.  
 🧠 Research in **Deep Learning**, with focus on **Computer Vision** and **Healthcare applications**.  
-💻 Passionate about designing **AI systems** for vision and biosignal analysis.  
+💻 Enthusiastic about developing robust AI solutions to tackle real-world problems. 
 📚 Currently exploring **Test-Time Adaptation** techniques for both computer vision and healthcare domains. 
 
 ## 🚀 Projects
