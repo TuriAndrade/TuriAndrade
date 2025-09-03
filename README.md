@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Turi Rezende  
 
-<!--
-**TuriAndrade/TuriAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s student in Computer Science at **UFMG (DCC)**.  
+🧠 Research in **Deep Learning**, with focus on **Computer Vision** and **Healthcare applications**.  
+💻 Passionate about designing **AI systems** for vision and biosignal analysis.  
+📚 Currently exploring **Test-Time Adaptation** techniques for both computer vision and healthcare domains. 
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [I-JEPA](https://github.com/TuriAndrade/I-JEPA) — I-JEPA with VICReg and Simplicial Embeddings.
+- [LGA-ECG](https://github.com/pedroroblesduten/LGA-ECG) — A CNN-based Local-Global Self-Attention via Averaged Window Embeddings for Hierarchical ECG Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/turirezende)  
+- [Email](turivasconcelos@gmail.com)
