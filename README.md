@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Turi  
 
 🎓 Master’s student in Computer Science at **UFMG (DCC)**.  
-🧠 Research in **Deep Learning**, with focus on **Computer Vision** and **Healthcare applications**.  
+🧠 Research in **Deep Learning**, with focus on **NLP**, **Computer Vision** and **Healthcare applications**.  
 💻 Enthusiastic about developing AI solutions to tackle **real-world problems**.  
 📚 Currently exploring **Test-Time Adaptation** techniques for both computer vision and healthcare domains. 
 
