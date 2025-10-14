@@ -10,7 +10,7 @@
 - [LGA-ECG](https://github.com/pedroroblesduten/LGA-ECG) — A CNN-based Local-Global Self-Attention via Averaged Window Embeddings for Hierarchical ECG Analysis.
 - [torch_ddp_utils](https://github.com/TuriAndrade/torch_ddp_utils) — Utilities for PyTorch Distributed Data Parallel (DDP) workflows—focused on data loading, training, and evaluation in multi-GPU environments.
 - [LoRA-SFT](https://github.com/TuriAndrade/LoRA-SFT) — Compare **Full Fine-Tuning**, **LoRA**, and **QLoRA** on Dolly-mini using TinyLlama-1.1B-Chat, with a simple pipeline for preprocessing, training, and side-by-side evaluation (perplexity + sample generations).
-- [RAG](https://github.com/TuriAndrade/RAG) — Minimal, low-level RAG on SQuAD v1.1: build a FAISS index over MiniLM embeddings, retrieve top-k passages, answer with an extractive QA reader, optionally fine-tune the bi-encoder, and evaluate with EM/F1 plus retriever metrics (Hit@k, MRR@k, nDCG@k).
+- [RAG](https://github.com/TuriAndrade/RAG) — Minimal, low-level **RAG on SQuAD v1.1**: build a FAISS index over MiniLM embeddings, retrieve top-k passages, answer with an extractive QA reader, optionally fine-tune the bi-encoder, and evaluate with EM/F1 plus retriever metrics **(Hit@k, MRR@k, nDCG@k)**.
 
 
 ## 📫 How to reach me
