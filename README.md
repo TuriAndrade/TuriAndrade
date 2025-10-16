@@ -12,6 +12,7 @@
 - [LoRA-SFT](https://github.com/TuriAndrade/LoRA-SFT) — Compare **Full Fine-Tuning**, **LoRA**, and **QLoRA** on Dolly-mini using TinyLlama-1.1B-Chat, with a simple pipeline for preprocessing, training, and side-by-side evaluation (perplexity + sample generations).
 - [RAG](https://github.com/TuriAndrade/RAG) — Minimal, low-level **RAG on SQuAD v1.1**: build a FAISS index over MiniLM embeddings, retrieve top-k passages, answer with an extractive QA reader, optionally fine-tune the bi-encoder, and evaluate with EM/F1 plus retriever metrics **(Hit@k, MRR@k, nDCG@k)**.
 - [DINOv2-TTA](https://github.com/TuriAndrade/DINOv2-TTA) — Modular codebase to evaluate and improve DINOv2 robustness with TTA methods (TENT, EATA, TEA) on ImageNet-C/R, plus scripts to preprocess datasets into a unified HDF5 and config-driven runners for quick, reproducible experiments.
+- [RHLF-PPO](https://github.com/TuriAndrade/RLHF-PPO) — This project implements **Reinforcement Learning from Human Feedback (RLHF)** using **Proximal Policy Optimization (PPO)** to fine-tune a small GPT-2 model on the IMDB movie reviews dataset.
 
 
 ## 📫 How to reach me
