@@ -6,7 +6,7 @@
 📚 Currently exploring **Test-Time Adaptation** techniques for both computer vision and healthcare domains. 
 
 ## 🚀 Projects
-- [I-JEPA](https://github.com/TuriAndrade/I-JEPA) — I-JEPA with VICReg and Simplicial Embeddings.
+- [I-JEPA](https://github.com/TuriAndrade/I-JEPA) — Added **VICReg** regularization and **Simplicial Embeddings (SEM)** to the original **I-JEPA** architecture; both motivated by an information-theoretic perspective to mitigate collapse, reduce redundancy, and encourage sparser, more separable embedding representations.
 - [LGA-ECG](https://github.com/pedroroblesduten/LGA-ECG) — A CNN-based Local-Global Self-Attention via Averaged Window Embeddings for Hierarchical ECG Analysis.
 - [torch_ddp_utils](https://github.com/TuriAndrade/torch_ddp_utils) — Utilities for PyTorch Distributed Data Parallel (DDP) workflows—focused on data loading, training, and evaluation in multi-GPU environments.
 - [LoRA-SFT](https://github.com/TuriAndrade/LoRA-SFT) — Compare **Full Fine-Tuning**, **LoRA**, and **QLoRA** on Dolly-mini using TinyLlama-1.1B-Chat, with a simple pipeline for preprocessing, training, and side-by-side evaluation (perplexity + sample generations).
