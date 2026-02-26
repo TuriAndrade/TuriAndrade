@@ -3,7 +3,7 @@
 🎓 Master’s student in Computer Science at **Federal University of Minas Gerais (UFMG)**.  
 🧠 Research in **Deep Learning**, with focus on **NLP**, **Computer Vision** and **Healthcare applications**.  
 💻 Enthusiastic about developing AI solutions to tackle **real-world problems**.  
-📚 Currently exploring **Test-Time Adaptation** techniques for both computer vision and healthcare domains. 
+📚 Currently researching and developing **Parameter-Efficient Fine-Tuning (PEFT)** techniques for both computer vision and healthcare domains. 
 
 ## 🚀 Projects
 - [I-JEPA](https://github.com/TuriAndrade/I-JEPA) — Added **VICReg** regularization and **Simplicial Embeddings (SEM)** to the original **I-JEPA** architecture; both motivated by an information-theoretic perspective to mitigate collapse, reduce redundancy, and encourage sparser, more separable embedding representations.
