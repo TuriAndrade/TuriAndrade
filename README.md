@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Turi  
 
 🎓 Master’s student in Computer Science at **Federal University of Minas Gerais (UFMG)**.  
-🧠 Research in **Deep Learning**, with focus on **NLP**, **Computer Vision** and **Healthcare applications**.  
+🧠 Research in **Deep Learning**, with focus on **Computer Vision**, **Healthcare applications** and **NLP**.  
 💻 Enthusiastic about developing AI solutions to tackle **real-world problems**.  
 📚 Currently researching and developing **Parameter-Efficient Fine-Tuning (PEFT)** techniques for both computer vision and healthcare domains. 
 
