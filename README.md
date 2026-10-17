@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Turi  
 
 🎓 Master’s student in Computer Science at **Federal University of Minas Gerais (UFMG)**.  
-🧠 Research in **Deep Learning**, with focus on **Computer Vision**, **Healthcare applications** and **NLP**.  
+🧠 Research in **Deep Learning**, with focus on **efficient model adaptation**.  
 💻 Enthusiastic about developing AI solutions to tackle **real-world problems**.  
-📚 Currently researching and developing **Parameter-Efficient Fine-Tuning (PEFT)** techniques for both computer vision and healthcare domains. 
+📚 Currently researching and developing **backbone compression and adapter compositionality** techniques for computer vision. 
 
 ## 🚀 Projects
 - [Federated HiT-NeXt](https://github.com/TuriAndrade/hit_next_fl) — Federated learning for multilabel ECG classification using the official **HiT-NeXt** implementation across heterogeneous public datasets, with balanced and unbalanced cross-silo experiments and support for **single- and multi-GPU training**.
