@@ -7,6 +7,7 @@
 
 ## 🚀 Projects
 - [Federated HiT-NeXt](https://github.com/TuriAndrade/hit_next_fl) — Federated learning for multilabel ECG classification using the official **HiT-NeXt** implementation across heterogeneous public datasets, with balanced and unbalanced cross-silo experiments and support for **single- and multi-GPU training**.
+- [LOB Benchmark](https://github.com/TuriAndrade/lob_benchmark) — Framework for benchmarking short-horizon LOB price prediction models, with efficient data processing, streaming data loading, hyperparameter tuning, and evaluation.
 - [LGA-ECG](https://github.com/pedroroblesduten/LGA-ECG) — A CNN-based Local-Global Self-Attention via Averaged Window Embeddings for hierarchical ECG analysis.
 - [I-JEPA](https://github.com/TuriAndrade/I-JEPA) — Added **VICReg** regularization and **Simplicial Embeddings (SEM)** to the original **I-JEPA** architecture; both motivated by an information-theoretic perspective to mitigate collapse, reduce redundancy, and encourage sparser, more separable embedding representations, with support for **single- and multi-GPU training**.
 - [torch_ddp_utils](https://github.com/TuriAndrade/torch_ddp_utils) — Utilities for PyTorch Distributed Data Parallel (**DDP**) workflows, focused on data loading, training, and evaluation in multi-GPU environments.
